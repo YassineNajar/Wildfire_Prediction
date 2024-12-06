@@ -37,7 +37,6 @@ This project focuses on predicting fire spread rates, detecting fire locations, 
 
 Make sure you have the following libraries installed:
 
-```bash
 pip install tensorflow scikit-learn geopandas matplotlib numpy pandas joblib
 
 The following libraries are used in this project:
