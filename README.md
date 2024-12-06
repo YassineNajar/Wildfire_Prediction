@@ -152,7 +152,7 @@ This model is evaluated based on its ability to accurately visualize and spatial
 
   ![Model 3 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/assets/model_eval_5)
 
-## 6. Future Improvements
+## 6. Additional Notes
 
 - Explore other **geospatial features** like terrain type, historical weather patterns, and proximity to infrastructure.
 - **Additional Datasets**: More data from different regions or longer time periods would enhance the model's accuracy and robustness.
