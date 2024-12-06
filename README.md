@@ -130,6 +130,9 @@ This model is evaluated based on its ability to accurately visualize and spatial
 
 ### Model 1 Evaluation (Random Forest)
 
+![Model 1 evaluation](model_eval_1.png)
+
+
 - **Predicted vs Actual**:  
   A plot comparing predicted vs actual **BUI** (Burnt Area Index) values, showing the model’s accuracy.
 
