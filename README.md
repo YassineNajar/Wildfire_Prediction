@@ -136,19 +136,21 @@ This model is evaluated based on its ability to accurately visualize and spatial
 - **Predicted vs Actual**:  
   A plot comparing predicted vs actual **BUI** (Burnt Area Index) values, showing the model’s accuracy.
 
-  ![Model 1 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/model_eval_1)
+  ![Model 1 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/model_eval_2)
 
 - **Confusion Matrix**:  
   A confusion matrix to evaluate the model’s classification performance (for fire prediction
 
-  ![Model 1 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/model_eval_1)
+  ![Model 1 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/model_eval_3)
 
 ### Model 3 Evaluation (Fire Spread Visualization)
 
 - **Fire Spread Radius**:  
   The radius is calculated based on the spread rate and time difference, and visualized with circles on the map.
   
-  ![Model 1 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/model_eval_1)
+  ![Model 3 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/model_eval_4)
+
+  ![Model 3 evaluation](https://github.com/YassineNajar/Wildfires_TSYP_Project/blob/main/model_eval_5)
 
 ## 6. Future Improvements
 
